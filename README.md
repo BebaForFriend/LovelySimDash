@@ -36,8 +36,6 @@ Qualsiasi uso non autorizzato sarà considerato una violazione del diritto d'aut
 ## 👤 Autore
 
 Made with ❤️ by **Seb**  
-Un ragazzo appassionato di motori, simulazione e tecnologia, che ha trasformato una semplice idea in qualcosa di unico e speciale. ✨
-
 ---
 
 ```markdown
