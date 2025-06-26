@@ -31,8 +31,6 @@ Questo progetto è protetto da **copyright**.
 
 Qualsiasi uso non autorizzato sarà considerato una violazione del diritto d'autore.
 
-> _“Questo è il mio piccolo capolavoro, costruito con passione e sudore. Guardare, ammirare… ma non toccare senza permesso.”_ 🛡️
-
 ## 👤 Autore
 
 Made with ❤️ by **Seb**  
